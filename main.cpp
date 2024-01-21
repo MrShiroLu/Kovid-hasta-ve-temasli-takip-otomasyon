@@ -3,8 +3,12 @@
 #include<locale.h> 
 #include<conio.h>
 #include<string.h>
-#include"fonksiyonlar.h"//hasta ve temaslı işlemleri bu kütüphaneden geliyor
-
+#include"fonksiyonlar.h"//hasta ve temaslÃ½ iÃ¾lemleri bu kÃ¼tÃ¼phaneden geliyor
+/*
+Burak Artun
+2312729005
+Kovid hasta ve temasli takip otomasyonu
+*/
 using namespace std;
 
 int main(){
