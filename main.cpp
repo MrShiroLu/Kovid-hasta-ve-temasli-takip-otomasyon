@@ -5,9 +5,6 @@
 #include<string.h>
 #include"fonksiyonlar.h"//hasta ve temaslý iþlemleri bu kütüphaneden geliyor
 
-//Burak Artun
-//2312729005
-//Kovid hasta ve temasli takip otomasyonu
 
 using namespace std;
 
